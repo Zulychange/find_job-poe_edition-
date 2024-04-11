@@ -1,3 +1,4 @@
+#Boss直聘对话脚本
 import time
 import os
 import subprocess
